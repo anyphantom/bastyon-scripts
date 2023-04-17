@@ -6,7 +6,7 @@
 // @supportURL   https://github.com/anyphantom/bastyon-scripts/issues
 // @namespace    https://github.com/anyphantom
 // @match        https://bastyon.com/*
-// @icon         https://i.imgur.com/cx46IAs.png
+// @icon         https://github.com/anyphantom/icons/a1.png
 // @grant        GM_setValue
 // @grant        GM_getValue
 // ==/UserScript==
