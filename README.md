@@ -17,6 +17,9 @@ Developers are such fools to block users right in the code, think about it...! T
 
 <img src="https://raw.githubusercontent.com/anyphantom/bastyon-scripts/main/images/preview-a1.png" width="500">
 
+## Script A2 - Video downloading
+No idea why this is still not made, however... This script allows downloading any Peertube video from Bastyon. Yeah, guys!! Under the video you'll find buttons for download. This extension is still raw, so be patient.
+
 ### How to use it
 - Install Tampermonkey (follow the section BEFORE YOU START)
 - Import the script from the `https://raw.githubusercontent.com/anyphantom/bastyon-scripts/main/a1.js` website.
